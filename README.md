@@ -27,7 +27,7 @@ Sebelum menjalankan project, pastikan sudah terinstall:
 Clone repository:
 
 ```bash
-git clone [LINK_REPOSITORY]
+git clone https://github.com/abdullobawazier/campus_store.git
 ```
 
 Masuk ke folder project:
